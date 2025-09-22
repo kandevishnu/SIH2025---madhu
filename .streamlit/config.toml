@@ -1,0 +1,4 @@
+[server]
+headless = true
+enableCORS = false
+# do NOT hardcode a port here; Render provides $PORT at runtime
